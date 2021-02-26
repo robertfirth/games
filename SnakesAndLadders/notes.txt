@@ -1,0 +1,10 @@
+I ran this from command prompt  - 
+py -m pip install -U pygame --user
+
+
+I added tp my PATH variable
+C:\Users\The Firths\AppData\Roaming\Python\Python39\Scripts
+
+I ran this fromt the terminal of vs code
+git config --global user.email "rob@firthweb.com"
+git config --global user.name "Robert Firth"
