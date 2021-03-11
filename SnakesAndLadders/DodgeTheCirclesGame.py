@@ -1,5 +1,3 @@
-print ("Hello Snakes - don't make me slither over")
-
 import pygame
 from random import random
 from pygame.locals import *
